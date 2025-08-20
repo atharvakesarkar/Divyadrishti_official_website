@@ -1,12 +1,12 @@
-DivyaDrishti – See the Unseen, Breathe the Future
-
+**DivyaDrishti – See the Unseen, Breathe the Future
+**
 DivyaDrishti is an innovative real-time pollution detecting system that leverages IoT and environmental technology to deliver accurate, affordable, and actionable insights. Built by student innovators, it aims to empower citizens, communities, schools, and authorities with transparent pollution data for smarter, healthier decisions.
 
-🌍 Problem Statement
+**🌍 Problem Statement**
 
 India ranks among the top 5 most polluted countries globally. In 2019 alone, 1.67 million lives were lost due to air pollution, causing strokes, heart attacks, and lung diseases.
 
-Key challenges:
+**Key challenges:**
 
 Vehicles: 32+ crore vehicles, but no real-time emissions data.
 
@@ -20,7 +20,7 @@ Scams: Cases like Volkswagen Dieselgate show how pollution reporting can be mani
 
 We are fighting a silent killer—without knowing exactly where the poison is coming from.
 
-💡 Our Solution
+**💡 Our Solution**
 
 DivyaDrishti is a cost-effective IoT-based pollution detection device that:
 
@@ -32,7 +32,7 @@ Offers transparent, reliable data for citizens and policymakers.
 
 Provides health insights and early warnings for high-risk zones.
 
-✨ Key Features
+**✨ Key Features**
 
 📡 Real-Time Detection → PM2.5, PM10, NO₂, CO, O₃, humidity, and temperature.
 
@@ -44,7 +44,7 @@ Provides health insights and early warnings for high-risk zones.
 
 🌱 Affordable & Portable → Only ~₹6,083 per unit (vs ₹1.5L for industry monitors).
 
-🎯 Use Cases
+**🎯 Use Cases**
 
 Smart Cities → Hotspot detection & monitoring.
 
@@ -56,8 +56,8 @@ Vehicles → On-road emissions tracking.
 
 Government Boards → State & central monitoring programs.
 
-🛠️ Technology
-Hardware Components
+**🛠️ Technology**
+**Hardware Components**
 
 ESP32 → Brain (controller)
 
@@ -73,7 +73,7 @@ Breadboard, Jumper wires, Resistors, Capacitors → Nerves & veins
 
 Hardware Cost Breakdown: ~₹1,515 per unit
 
-Software
+**Software**
 
 Flask-based web server
 
@@ -87,7 +87,7 @@ Software Cost: ~₹1,308 per unit
 
 Total Cost per Unit: ~₹2,823 (prototype)
 
-📊 Market & Competition
+**📊 Market & Competition**
 
 Target Market:
 
@@ -107,8 +107,8 @@ Industrial pollution monitors (~₹1.5 Lakh/unit)
 
 DivyaDrishti (~₹6,083/unit, scalable, portable, multi-sensor)
 
-💰 Business Model & Financials
-
+**💰 Business Model & Financials
+**
 Revenue Streams:
 
 Device sales
