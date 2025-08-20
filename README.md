@@ -1,5 +1,5 @@
-**DivyaDrishti – See the Unseen, Breathe the Future
-**
+**DivyaDrishti – See the Unseen, Breathe the Future**
+
 DivyaDrishti is an innovative real-time pollution detecting system that leverages IoT and environmental technology to deliver accurate, affordable, and actionable insights. Built by student innovators, it aims to empower citizens, communities, schools, and authorities with transparent pollution data for smarter, healthier decisions.
 
 **🌍 Problem Statement**
@@ -107,8 +107,8 @@ Industrial pollution monitors (~₹1.5 Lakh/unit)
 
 DivyaDrishti (~₹6,083/unit, scalable, portable, multi-sensor)
 
-**💰 Business Model & Financials
-**
+**💰 Business Model & Financials**
+
 Revenue Streams:
 
 Device sales
@@ -125,7 +125,7 @@ Software & IT: ₹3,40,000
 
 Total: ₹7,34,900
 
-📅 Project Timeline
+**📅 Project Timeline**
 
 Prototype Build → Completed
 
@@ -135,7 +135,7 @@ Partnerships → NGOs, Smart Cities, government boards
 
 Scale-Up → Vehicle-based pollution monitoring & AI/ML trend predictions
 
-🚀 Future Scope
+**🚀 Future Scope**
 
 Expand into vehicle-based monitoring with onboard sensors.
 
@@ -145,7 +145,7 @@ Integrate AI/ML for trend prediction & preventive actions.
 
 Collaborations with tech companies & municipalities for mass deployment.
 
-🤝 Partnerships & Support Needed
+**🤝 Partnerships & Support Needed**
 
 Municipal corporations & Smart City programs
 
@@ -155,7 +155,7 @@ Tech companies for AI/ML modules
 
 Government boards for policy integration
 
-📞 Contact Us
+**📞 Contact Us**
 
 DivyaDrishti Team
 
